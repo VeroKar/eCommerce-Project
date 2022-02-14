@@ -6,7 +6,7 @@ The goal of this project will be to create a functioning website dedicated to a 
 
 Here are the features planned for the website, with different permissions and features based on whether you are an owner or a user/client:
 
-As a user/client:
+## As a user/client:
 
 - You will be able to sign up for the server, register to become a member of the server, login and log out (all user data will be stored on a database)
 - You will require 2-factor authentication
@@ -24,7 +24,7 @@ As a user/client:
 - You can change your information (email, telephone number, etc.)
 - You can open/create a ticket (ask for tech support, report a bug, etc.)
 
-As the owner:
+## As the owner:
 
 - You can view user information (membership status, login time, purchases, etc.)
 - You can delete and add users
